@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/607507489667472981/e7ec9280b061410f9eb5e69bdeb4da81/artifacts
+end_time: 1735597083084
+entry_point_name: ''
+experiment_id: '607507489667472981'
+lifecycle_stage: active
+run_id: e7ec9280b061410f9eb5e69bdeb4da81
+run_name: abrasive-chimp-56
+run_uuid: e7ec9280b061410f9eb5e69bdeb4da81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735597078535
+status: 4
+tags: []
+user_id: sakibhussen
