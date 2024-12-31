@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111538399626635774/6632b594ad2f42a0b760b707379439b3/artifacts
+end_time: 1735616099161
+entry_point_name: ''
+experiment_id: '111538399626635774'
+lifecycle_stage: active
+run_id: 6632b594ad2f42a0b760b707379439b3
+run_name: calm-bass-131
+run_uuid: 6632b594ad2f42a0b760b707379439b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616095414
+status: 3
+tags: []
+user_id: sakibhussen

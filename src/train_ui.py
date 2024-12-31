@@ -6,13 +6,18 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.stem import WordNetLemmatizer
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import mlflow
 import subprocess
 import os
 import webbrowser
+import nltk
+nltk.download('wordnet', quiet=True)
+nltk.download('omw-1.4', quiet=True)
+nltk.download('stopwords', quiet=True)
+nltk.download('punkt', quiet=True)
 mlflow.set_tracking_uri("http://127.0.0.1:5001")
 # Configure Page
 st.set_page_config(
@@ -33,9 +38,9 @@ def preprocess_text(text):
     lemmatizer = WordNetLemmatizer()
     words = word_tokenize(text.lower())
     # filtered_words = [word for word in words if word.isalpha()]
-    filtered_words = [word for word in words if word.isalpha() and word not in stop_words]
-    # filtered_words = [stemmer.stem(word) for word in words if word.isalpha() and word not in stop_words]
-    # filtered_words = [lemmatizer.lemmatize(word) for word in words if word.isalpha() and word not in stop_words]
+    #filtered_words = [word for word in words if word.isalpha() and word not in stop_words]
+    #filtered_words = [stemmer.stem(word) for word in words if word.isalpha() and word not in stop_words]
+    filtered_words = [lemmatizer.lemmatize(word) for word in words if word.isalpha() and word not in stop_words]
     return ' '.join(filtered_words)
 
 # Train the model
@@ -50,8 +55,8 @@ def train_model(exp_name, df, n, c, d):
     experiment = mlflow.set_experiment(exp_name) 
     with mlflow.start_run(experiment_id=experiment.experiment_id):
          # Create a Vectorizer to convert text data to numerical features: BoW / TF-IDF 
-        # vectorizer = CountVectorizer()
-        vectorizer = TfidfVectorizer()
+        vectorizer = CountVectorizer()
+        #vectorizer = TfidfVectorizer()
         x_train_vectorized = vectorizer.fit_transform(x_train)          
         x_test_vectorized = vectorizer.transform(x_test)          
         rf_classifier = RandomForestClassifier(n_estimators=n, criterion=c, max_depth=d)

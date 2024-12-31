@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606330017745333183/8281907f8fc74204a7ec2f181684f317/artifacts
+end_time: 1735616738995
+entry_point_name: ''
+experiment_id: '606330017745333183'
+lifecycle_stage: active
+run_id: 8281907f8fc74204a7ec2f181684f317
+run_name: merciful-kit-246
+run_uuid: 8281907f8fc74204a7ec2f181684f317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616735784
+status: 3
+tags: []
+user_id: sakibhussen

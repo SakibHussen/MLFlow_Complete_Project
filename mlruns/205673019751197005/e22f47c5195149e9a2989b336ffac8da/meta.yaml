@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/205673019751197005/e22f47c5195149e9a2989b336ffac8da/artifacts
+end_time: 1735617135466
+entry_point_name: ''
+experiment_id: '205673019751197005'
+lifecycle_stage: active
+run_id: e22f47c5195149e9a2989b336ffac8da
+run_name: secretive-cod-305
+run_uuid: e22f47c5195149e9a2989b336ffac8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617131813
+status: 3
+tags: []
+user_id: sakibhussen

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/205673019751197005/3f47015532c74de081af537cb7c8198b/artifacts
+end_time: 1735617080667
+entry_point_name: ''
+experiment_id: '205673019751197005'
+lifecycle_stage: active
+run_id: 3f47015532c74de081af537cb7c8198b
+run_name: righteous-steed-248
+run_uuid: 3f47015532c74de081af537cb7c8198b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617076822
+status: 3
+tags: []
+user_id: sakibhussen

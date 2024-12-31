@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111538399626635774/b84fe929c99e41f1bb9e9c0a051417ff/artifacts
+end_time: 1735616083934
+entry_point_name: ''
+experiment_id: '111538399626635774'
+lifecycle_stage: active
+run_id: b84fe929c99e41f1bb9e9c0a051417ff
+run_name: bouncy-cat-541
+run_uuid: b84fe929c99e41f1bb9e9c0a051417ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616080594
+status: 3
+tags: []
+user_id: sakibhussen

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735620031134
+current_stage: None
+description: ''
+last_updated_timestamp: 1735622977443
+name: Spamfilter
+run_id: d4fa1636f19c45ef9f62c37b605aa01c
+run_link: ''
+source: mlflow-artifacts:/606330017745333183/d4fa1636f19c45ef9f62c37b605aa01c/artifacts/vectorizer
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/606330017745333183/d4fa1636f19c45ef9f62c37b605aa01c/artifacts/vectorizer
+user_id: null
+version: 3

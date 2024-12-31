@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/205673019751197005/fd043c55f0324075b1ca2386b0e59f96/artifacts
+end_time: 1735617110433
+entry_point_name: ''
+experiment_id: '205673019751197005'
+lifecycle_stage: active
+run_id: fd043c55f0324075b1ca2386b0e59f96
+run_name: luxuriant-shrew-632
+run_uuid: fd043c55f0324075b1ca2386b0e59f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617106654
+status: 3
+tags: []
+user_id: sakibhussen

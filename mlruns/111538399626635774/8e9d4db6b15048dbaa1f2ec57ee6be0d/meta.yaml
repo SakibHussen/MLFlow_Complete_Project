@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111538399626635774/8e9d4db6b15048dbaa1f2ec57ee6be0d/artifacts
+end_time: 1735616144795
+entry_point_name: ''
+experiment_id: '111538399626635774'
+lifecycle_stage: active
+run_id: 8e9d4db6b15048dbaa1f2ec57ee6be0d
+run_name: magnificent-goat-115
+run_uuid: 8e9d4db6b15048dbaa1f2ec57ee6be0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616141357
+status: 3
+tags: []
+user_id: sakibhussen

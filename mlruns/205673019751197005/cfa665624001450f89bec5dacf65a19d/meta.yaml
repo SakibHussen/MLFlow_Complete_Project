@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/205673019751197005/cfa665624001450f89bec5dacf65a19d/artifacts
+end_time: 1735617065236
+entry_point_name: ''
+experiment_id: '205673019751197005'
+lifecycle_stage: active
+run_id: cfa665624001450f89bec5dacf65a19d
+run_name: auspicious-snake-846
+run_uuid: cfa665624001450f89bec5dacf65a19d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617060801
+status: 3
+tags: []
+user_id: sakibhussen

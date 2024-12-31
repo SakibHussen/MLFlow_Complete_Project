@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606330017745333183/63bfa4b4bc96417da4adeeb4594f05d2/artifacts
+end_time: 1735616707472
+entry_point_name: ''
+experiment_id: '606330017745333183'
+lifecycle_stage: active
+run_id: 63bfa4b4bc96417da4adeeb4594f05d2
+run_name: aged-sponge-913
+run_uuid: 63bfa4b4bc96417da4adeeb4594f05d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616703533
+status: 3
+tags: []
+user_id: sakibhussen

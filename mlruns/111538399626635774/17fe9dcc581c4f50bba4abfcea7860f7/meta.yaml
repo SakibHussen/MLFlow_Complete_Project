@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111538399626635774/17fe9dcc581c4f50bba4abfcea7860f7/artifacts
+end_time: 1735616000772
+entry_point_name: ''
+experiment_id: '111538399626635774'
+lifecycle_stage: active
+run_id: 17fe9dcc581c4f50bba4abfcea7860f7
+run_name: casual-crab-707
+run_uuid: 17fe9dcc581c4f50bba4abfcea7860f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735615996241
+status: 3
+tags: []
+user_id: sakibhussen

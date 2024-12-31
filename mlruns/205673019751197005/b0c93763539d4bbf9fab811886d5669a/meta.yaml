@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/205673019751197005/b0c93763539d4bbf9fab811886d5669a/artifacts
+end_time: 1735617121406
+entry_point_name: ''
+experiment_id: '205673019751197005'
+lifecycle_stage: active
+run_id: b0c93763539d4bbf9fab811886d5669a
+run_name: nervous-owl-570
+run_uuid: b0c93763539d4bbf9fab811886d5669a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617117941
+status: 3
+tags: []
+user_id: sakibhussen

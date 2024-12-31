@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606330017745333183/dc118660531840718b4893389383cf40/artifacts
+end_time: 1735616676840
+entry_point_name: ''
+experiment_id: '606330017745333183'
+lifecycle_stage: active
+run_id: dc118660531840718b4893389383cf40
+run_name: bustling-moth-884
+run_uuid: dc118660531840718b4893389383cf40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616671860
+status: 3
+tags: []
+user_id: sakibhussen

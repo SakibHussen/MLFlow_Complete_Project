@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111538399626635774/4341cbf7ff194a9883e7e861254eab1e/artifacts
+end_time: 1735616110603
+entry_point_name: ''
+experiment_id: '111538399626635774'
+lifecycle_stage: active
+run_id: 4341cbf7ff194a9883e7e861254eab1e
+run_name: nimble-rat-644
+run_uuid: 4341cbf7ff194a9883e7e861254eab1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616107024
+status: 3
+tags: []
+user_id: sakibhussen

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111538399626635774/e470f70258f94a17959af0af2687f7ff/artifacts
+end_time: 1735616123253
+entry_point_name: ''
+experiment_id: '111538399626635774'
+lifecycle_stage: active
+run_id: e470f70258f94a17959af0af2687f7ff
+run_name: dapper-colt-422
+run_uuid: e470f70258f94a17959af0af2687f7ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616119325
+status: 3
+tags: []
+user_id: sakibhussen

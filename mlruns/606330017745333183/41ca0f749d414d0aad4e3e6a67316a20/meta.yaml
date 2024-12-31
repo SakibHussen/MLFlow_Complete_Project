@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606330017745333183/41ca0f749d414d0aad4e3e6a67316a20/artifacts
+end_time: 1735616729918
+entry_point_name: ''
+experiment_id: '606330017745333183'
+lifecycle_stage: active
+run_id: 41ca0f749d414d0aad4e3e6a67316a20
+run_name: unequaled-gull-390
+run_uuid: 41ca0f749d414d0aad4e3e6a67316a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735616726278
+status: 3
+tags: []
+user_id: sakibhussen
