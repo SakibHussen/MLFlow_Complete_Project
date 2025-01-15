@@ -22,7 +22,7 @@ Designed with scalability and maintainability in mind, the project showcases the
    - Vectorized text using TF-IDF for feature extraction.
 
 2. **Model Training**:
-   - Trained a [specific model, e.g., Naive Bayes, SVM] for binary classification.
+   - Trained a Random Forest Classifier for binary classification.
    - Optimized hyperparameters for maximum accuracy.
 
 3. **MLflow Integration**:
