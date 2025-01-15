@@ -79,4 +79,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Contact**
-If you are interested in exploring this project further or have any questions, feel free to reach out at [your email or LinkedIn profile].
+If you are interested in exploring this project further or have any questions, feel free to reach out at sakibhussen7@gmail.com.
