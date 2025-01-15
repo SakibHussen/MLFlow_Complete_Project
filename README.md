@@ -50,7 +50,10 @@ The project achieved the following metrics on the test dataset:
 
 ### Streamlit App Interface
 ![Streamlit Interface Screenshot](image.png)
-![Streamlit Interface Screenshot](image copy.png)
+
+## Screenshot 2
+![Streamlit Interface2 Screenshot](./image%20copy.png)
+
 
 
 
